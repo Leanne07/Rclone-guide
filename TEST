@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Rclone Project</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
+    pre { background: #f4f4f4; padding: 15px; border-radius: 5px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>Rclone Sync & Backup Guide</h1>
+  <p>Welcome to my rclone documentation and script repository.</p>
+  <h2>Example Sync Command</h2>
+  <pre><code>rclone sync /local/path remote:backup --progress</code></pre>
+</body>
+</html>
